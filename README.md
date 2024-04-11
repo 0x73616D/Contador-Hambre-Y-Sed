@@ -9,7 +9,7 @@ Este script reemplaza el sistema de hambre y sed por defecto de Fenixzone y agre
 ## 👾 Comandos:
 - **/HYSCONFIG**: Abre un menú de modificación para cambiar el color, el tamaño, la posicion, el icono, la fuente y los flags de la misma.
 
-![Config](https://media.discordapp.net/attachments/1217747170841727040/1223344906144055296/image.png?ex=661983ba&is=66070eba&hm=434d6bd451dbc2337a166ad47a2da68f904c8e951041dd967cdd6422a0ffaf97&=&format=webp&quality=lossless&width=983&height=473)
+![Config](https://github.com/0x73616D/Contador-Hambre-Y-Sed/assets/94794277/2665fd99-bfbb-4979-ac82-c76479d47b93)
 
 ## ⚠️ Requisitos:
 - ASI LOADER (incluido con el mod)
@@ -20,4 +20,4 @@ Este script reemplaza el sistema de hambre y sed por defecto de Fenixzone y agre
 Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/717764929113030756)
 
 ## 👀 Vista dentro del juego:
-![Vista dentro del juego](https://media.discordapp.net/attachments/1222002044227944469/1222280341100822663/image.png?ex=6615a446&is=66032f46&hm=38649211b3d63693bfcfe8aa12af61b84c9ae3816b20cd11ddcc581a8cb0e416&=&format=webp&quality=lossless)
+![Vista dentro del juego](https://github.com/0x73616D/Contador-Hambre-Y-Sed/assets/94794277/125b5fcc-fd20-48de-83b2-b6b671f4ea5c)
