@@ -17,7 +17,7 @@ Este script reemplaza el sistema de hambre y sed por defecto de Fenixzone y agre
 - Moonloader 026.5 (incluido con el mod)
 
 ## ☄️ Instalación:
-Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/717764929113030756)
+Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/1246311073204670540)
 
 ## 👀 Vista dentro del juego:
 ![Vista dentro del juego](https://github.com/0x73616D/Contador-Hambre-Y-Sed/assets/94794277/125b5fcc-fd20-48de-83b2-b6b671f4ea5c)
